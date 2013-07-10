@@ -2,7 +2,6 @@ package org.owasp.goatdroid.fourgoats.phonegap.plugins;
 
 import java.util.HashMap;
 import java.util.Map;
-
 import org.apache.cordova.api.CallbackContext;
 import org.apache.cordova.api.CordovaPlugin;
 import org.apache.cordova.api.PluginResult;
@@ -10,7 +9,6 @@ import org.apache.cordova.api.PluginResult.Status;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
 import android.content.Context;
 import android.content.SharedPreferences;
 
